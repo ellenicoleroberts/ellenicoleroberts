@@ -45,9 +45,7 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
   <img src="images/postgre.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>PostgreSQL
 
-- <a href="https://flask.palletsprojects.com/en/2.2.x/">
-  <img src="images/flask.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>Flask 
+- <img src="images/flask.png" alt="Nicole Roberts" style="width:22px;height:22px;"><a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a> 
 
 - <a href="https://github.com/">
   <img src="images/github.png" alt="Nicole Roberts" style="width:22px;height:22px;">
