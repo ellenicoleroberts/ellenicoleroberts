@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://twitter.com/ellenicoler">
-  <img src="images/twitter.jpeg" alt="Nicole Roberts" style="width:22px;height:22px;">
+  <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
 <br />
