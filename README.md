@@ -25,7 +25,7 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 - 🌱 I’m currently learning Tableau.
 
-- 💬 Ask me about anything, happy to connect.
+- 💬 Ask me anything, happy to connect.
 
 - 📫 Reach me via any of the social-media platforms.
 
