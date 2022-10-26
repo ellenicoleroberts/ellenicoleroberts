@@ -1,4 +1,4 @@
-<h3><b>Hello it's [Nicole](https://github.com/ellenicoleroberts?tab=repositories)<h3><b>
+<h3><b>Hello it's [Nicole](https://github.com/ellenicoleroberts?tab=repositories)</h3></b>
 
 <br/>
 
