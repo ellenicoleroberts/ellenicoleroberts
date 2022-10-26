@@ -25,13 +25,13 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 - 📊 I’m a Data Scientist at OptyX and Lead Web App Developer at Simple.
 
+- 📝 [Portfolio]()
+
 - 🌱 I’m currently learning Tableau.
 
 - 💬 Ask me anything, happy to connect.
 
 - 📫 Reach me via any of the social-media platforms.
-
-- 📝 [Portfolio]()
 
 - ✨ I love to create, fashion too: [Nicole Roberts](https://www.nicoleroberts.com/)
 
