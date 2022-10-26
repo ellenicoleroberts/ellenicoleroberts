@@ -16,8 +16,6 @@
 
 <br />
 
-<br />
-
 Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus based in New York City. 
 
 <h3><b>More about me:</b></h3>
