@@ -9,7 +9,7 @@
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 <a href="https://www.instagram.com/nicrobertsny/">
-< ![insta icon](images/insta.png) />
+< ![insta icon](images/insta.jpeg) />
 </a>
 
 <br />
