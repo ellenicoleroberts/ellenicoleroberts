@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.instagram.com/nicrobertsny/">
-  <img src="images/insta.jpeg" alt="Nicole Roberts" style="width:22px;height:22px;">
+  <img src="images/instagram.webp" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
 <a href="https://twitter.com/ellenicoler">
