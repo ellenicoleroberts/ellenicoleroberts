@@ -5,15 +5,15 @@
 
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
-</a> <h3>  </h3>
+</a>
 </div>
-  <a href="https://www.instagram.com/nicrobertsny/">
+<h3>  <a href="https://www.instagram.com/nicrobertsny/">
   <img src="images/instagram.webp" alt="Nicole Roberts" style="width:22px;height:25px;" >
-</a> <h3>  </h3>
+</a></h3>
 </div>
-  <a href="https://twitter.com/ellenicoler">
+<h3>  <a href="https://twitter.com/ellenicoler">
   <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
-</a> 
+</a></h3>
 
 <br />
 
