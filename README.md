@@ -36,7 +36,7 @@
 
 - <img src="images/flask.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a> 
 
-- <img src="images/aws.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://aws.amazon.com/">AWS</a>
+- <img src="images/aws.webp" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://aws.amazon.com/">AWS</a>
 
 - <img src="images/github.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://github.com">Git</a>
 
