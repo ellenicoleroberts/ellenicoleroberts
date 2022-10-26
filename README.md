@@ -19,8 +19,6 @@
 
 <br />
 
-Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus based in New York City. 
-
 <h3><b>About me:</b></h3>
 
 - 📊 I’m a Data Scientist at OptyX and Lead Web App Developer at Simple.
