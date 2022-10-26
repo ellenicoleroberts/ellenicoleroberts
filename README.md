@@ -37,13 +37,13 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 <h3><b>Languages + Tools:</b></h3>
 
-- <img src="images/python.webp" alt="Nicole Roberts" style="width:22px;height:22px;"> <a href="https://www.python.org/">Python</a>
+- <img src="images/python.webp" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://www.python.org/">Python</a>
 
-- <img src="images/postgre.png" alt="Nicole Roberts" style="width:22px;height:22px;"> <a href="https://www.postgresql.org/">PostgreSQL</a>
+- <img src="images/postgre.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://www.postgresql.org/">PostgreSQL</a>
 
-- <img src="images/flask.png" alt="Nicole Roberts" style="width:22px;height:22px;"> <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a> 
+- <img src="images/flask.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a> 
 
-- <img src="images/github.png" alt="Nicole Roberts" style="width:22px;height:22px;"> <a href="https://github.com">Git</a>
+- <img src="images/github.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://github.com">Git</a>
 
-- <img src="images/html.png" alt="Nicole Roberts" style="width:22px;height:22px;"> <a href="https://www.w3schools.com/html/"></a>HTML
+- <img src="images/html.png" alt="Nicole Roberts" style="width:20px;height:22px;"> <a href="https://www.w3schools.com/html/">HTML</a>
 
