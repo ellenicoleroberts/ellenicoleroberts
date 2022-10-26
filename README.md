@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
+<a href="https://www.instagram.com/nicrobertsny/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -19,7 +19,7 @@
 
 Hi, I'm Nicole, a Junior Data Scientist and Flask Developer based in New York City. 
 
-**More about Me**
+**More about me**
 
 - 🔭 I’m currently the Head Web App Developer at Simple.
 - 🌱 I’m currently learning Tableau.
