@@ -6,7 +6,7 @@
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Saket Prag" width="22px" src="https://www.linkedin.com/sharing/share-offsite/?url={url}" />
 </a>
 <a href="https://www.instagram.com/nicrobertsny/">
 < ![insta icon](images/insta.png) />
