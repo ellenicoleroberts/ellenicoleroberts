@@ -42,7 +42,7 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
   <img src="images/flask.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 <a href="https://github.com/">
-  <img src="images/git.png" alt="Nicole Roberts" style="width:22px;height:22px;">
+  <img src="images/github.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 <a href="https://www.w3schools.com/html/">
   <img src="images/html.png" alt="Nicole Roberts" style="width:22px;height:22px;">
