@@ -31,7 +31,7 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 <h3><b>Languages and Tools</b></h3>
 
--  Python <a href="https://www.python.org/">
+- Python <a href="https://www.python.org/">
   <img src="images/python.webp" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
