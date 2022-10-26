@@ -1,3 +1,5 @@
+
+
 <h3><b>Hello, it's <a href="https://www.linkedin.com/in/nicolerobertsdesigner/" style="color:green">Nicole</a></h3></b>
 
 
@@ -35,23 +37,23 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 <h3><b>Languages + Tools:</b></h3>
 
-- Python <a href="https://www.python.org/">
+- <a href="https://www.python.org/">
   <img src="images/python.webp" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> Python
 
-- PostgreSQL <a href="https://www.postgresql.org/">
+- <a href="https://www.postgresql.org/">
   <img src="images/postgre.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> PostgreSQL
 
-- Flask <a href="https://flask.palletsprojects.com/en/2.2.x/">
+- <a href="https://flask.palletsprojects.com/en/2.2.x/">
   <img src="images/flask.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> Flask 
 
-- Git <a href="https://github.com/">
+- <a href="https://github.com/">
   <img src="images/github.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> Git
 
-- HTML <a href="https://www.w3schools.com/html/">
+- <a href="https://www.w3schools.com/html/">
   <img src="images/html.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> HTML
 
