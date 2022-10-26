@@ -7,7 +7,7 @@
 <img align="left" alt="Nicole Roberts | Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png" />
 </a>
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
-<img align="left" alt="Nicole Roberts" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Nicole Roberts" width="22px" src="https://www.linkedin.com/sharing/share-offsite/?url={url}" />
 </a>
 <a href="https://www.instagram.com/nicrobertsny/">
 < ![insta icon](images/insta.png) />
