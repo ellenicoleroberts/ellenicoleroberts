@@ -2,12 +2,11 @@
 
 <br/>
 
-
 <a href="https://twitter.com/ellenicoler">
-<img align="left" alt="Nicole Roberts | Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png" />
+<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
-<img align="left" alt="Nicole Roberts" width="22px" src="https://www.linkedin.com/sharing/share-offsite/?url={url}" />
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nicrobertsny/">
 < ![insta icon](images/insta.png) />
