@@ -2,7 +2,6 @@
 
 <br/>
 
-
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
