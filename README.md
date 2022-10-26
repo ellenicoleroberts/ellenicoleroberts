@@ -48,4 +48,3 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
   <img src="images/html.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
-
