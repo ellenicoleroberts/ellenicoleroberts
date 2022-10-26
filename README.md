@@ -2,7 +2,6 @@
 
 <h3><b>Hello, it's <a href="https://www.linkedin.com/in/nicolerobertsdesigner/" style="color:green">Nicole</a></h3></b>
 
-
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
 </a>
@@ -14,8 +13,6 @@
 <a href="https://twitter.com/ellenicoler">
   <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
 </a>
-
-<br />
 
 <br />
 
