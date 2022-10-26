@@ -23,7 +23,7 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus
 
 <h3><b>About me:</b></h3>
 
-- 📊 I’m currently a Data Scientist at OptyX and Lead Web App Developer at Simple.
+- 📊 I’m a Data Scientist at OptyX and Lead Web App Developer at Simple.
 
 - 🌱 I’m currently learning Tableau.
 
