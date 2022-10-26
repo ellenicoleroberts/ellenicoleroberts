@@ -5,15 +5,15 @@
 
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> 
 
 <a href="https://www.instagram.com/nicrobertsny/">
   <img src="images/instagram.webp" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> 
 
 <a href="https://twitter.com/ellenicoler">
   <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:22px;">
-</a>
+</a> 
 
 <br />
 
@@ -21,7 +21,7 @@
 
 Hi, I'm Nicole, a Junior Data Scientist and Flask Developer with a FinTech focus based in New York City. 
 
-<h3><b>More about me:</b></h3>
+<h3><b>About me:</b></h3>
 
 - 🔭 I’m currently a Data Scientist at OptyX and Lead Web App Developer at Simple.
 
