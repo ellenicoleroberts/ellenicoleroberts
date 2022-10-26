@@ -3,14 +3,18 @@
 <br/>
 
 
-<a href="https://twitter.com/ellenicoler">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
+
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
+
 <a href="https://www.instagram.com/nicrobertsny/">
-< ![insta icon](images/insta.png) />
+  <img src="images/insta.jpeg" alt="Nicole Roberts" style="width:22px;height:22px;">
+</a>
+
+<a href="https://twitter.com/ellenicoler">
+  <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
 <br />
