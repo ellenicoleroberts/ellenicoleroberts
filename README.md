@@ -25,8 +25,8 @@ Hi, I'm Nicole, a Junior Data Scientist and Flask Developer based in New York Ci
 - 🌱 I’m currently learning Tableau.
 - 💬 Ask me about anything, happy to connect.
 - 📫 How to reach me: any of the social-media platforms 
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I am a fashion designer too. [Nicole Roberts](https://www.nicoleroberts.com/)
+- 📝[Portfolio]()
+- ✨ I am a fashion designer too: [Nicole Roberts](https://www.nicoleroberts.com/)
 
 **Languages and Tools:**
 
