@@ -2,7 +2,15 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
+  <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;">
+</a>
 
+<a href="https://www.instagram.com/nicrobertsny/">
+  <img src="images/insta.jpeg" alt="Nicole Roberts" style="width:22px;height:22px;">
+</a>
+
+<<<<<<< HEAD
 
 
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
@@ -13,6 +21,8 @@
   <img src="images/insta.jpeg" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
 
+=======
+>>>>>>> 8df3fb0be1ef088ce1e85a5c43bff06a8c9f84ec
 <a href="https://twitter.com/ellenicoler">
   <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:22px;">
 </a>
