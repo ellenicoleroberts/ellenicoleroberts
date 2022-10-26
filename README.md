@@ -7,13 +7,13 @@
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
 </a>
 </div>
-<h3>  <a href="https://www.instagram.com/nicrobertsny/">
+<a href="https://www.instagram.com/nicrobertsny/">
   <img src="images/instagram.webp" alt="Nicole Roberts" style="width:22px;height:25px;" >
-</a></h3>
+</a>
 </div>
-<h3>  <a href="https://twitter.com/ellenicoler">
+<a href="https://twitter.com/ellenicoler">
   <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:25px;" >
-</a></h3>
+</a>
 
 <br />
 
