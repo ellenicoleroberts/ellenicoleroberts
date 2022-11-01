@@ -20,7 +20,7 @@
 
 - 📊 I’m a Data Scientist at OptyX and Lead Web App Developer at Simple.
 
-- 📝 [Portfolio](www.nicolelroberts.com)
+- 📝 [Portfolio](https://www.nicolelroberts.com)
 
 - 🌱 I’m currently learning Tableau.
 
