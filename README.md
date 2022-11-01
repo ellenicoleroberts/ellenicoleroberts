@@ -1,6 +1,6 @@
 
 
-<h3><b>Hello, it's <a href="https://www.linkedin.com/in/nicolerobertsdesigner/" alt="Nicole Roberts" style="color:green">Nicole</a></h3></b>
+<h3><b>Hello, it's <a href="https://www.nicolelroberts.com" alt="Nicole Roberts" style="color:green">Nicole</a></h3></b>
 
 <a href="https://www.linkedin.com/in/nicolerobertsdesigner/">
   <img src="images/linkedin.png" alt="Nicole Roberts" style="width:22px;height:22px;" >
@@ -20,7 +20,7 @@
 
 - 📊 I’m a Data Scientist at OptyX and Lead Web App Developer at Simple.
 
-- 📝 [Portfolio]()
+- 📝 [Portfolio](www.nicolelroberts.com)
 
 - 🌱 I’m currently learning Tableau.
 
