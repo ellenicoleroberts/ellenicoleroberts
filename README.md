@@ -22,8 +22,6 @@
 
 - 📝 [Portfolio](https://www.nicolelroberts.com)
 
-- 🌱 I’m currently learning Tableau.
-
 - 💬 Ask me anything, happy to connect. Reach me at elle.nicole.roberts@gmail.com or via any of the social-media platforms.
 
 - ✨ I love to create, fashion too: [Nicole Roberts](https://www.nicoleroberts.com/)
