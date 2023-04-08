@@ -10,9 +10,6 @@
   <img src="images/instagram.webp" alt="Nicole Roberts" style="width:22px;height:22px;" >
 </a>
 </div>
-<a href="https://twitter.com/ellenicoler">
-  <img src="images/twitter.png" alt="Nicole Roberts" style="width:22px;height:22px;" >
-</a>
 
 <br />
 
