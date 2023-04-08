@@ -18,7 +18,7 @@
 
 <h3><b>About me:</b></h3>
 
-- 📊 I’m a Jr. Data Scientist at OptyX and Lead Web App Developer at Simple.
+- 📊 I’m a Data Scientist at Express.
 
 - 📝 [Portfolio](https://www.nicolelroberts.com)
 
